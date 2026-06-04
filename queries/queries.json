@@ -1,0 +1,22 @@
+[
+  {"id": "q01", "query": "transformer attention mechanism", "relevant_ids": ["005"], "type": "standard"},
+  {"id": "q02", "query": "dense passage retrieval BERT", "relevant_ids": ["002"], "type": "standard"},
+  {"id": "q03", "query": "BM25 lexical search sparse retrieval", "relevant_ids": ["003"], "type": "standard"},
+  {"id": "q04", "query": "sentence embeddings similarity", "relevant_ids": ["009"], "type": "standard"},
+  {"id": "q05", "query": "retrieval augmented generation RAG", "relevant_ids": ["001"], "type": "standard"},
+  {"id": "q06", "query": "hybrid retrieval combining sparse dense", "relevant_ids": ["006"], "type": "standard"},
+  {"id": "q07", "query": "FAISS vector similarity search", "relevant_ids": ["008"], "type": "standard"},
+  {"id": "q08", "query": "ColBERT late interaction retrieval", "relevant_ids": ["007"], "type": "standard"},
+  {"id": "q09", "query": "chain of thought reasoning LLM", "relevant_ids": ["012"], "type": "standard"},
+  {"id": "q10", "query": "contrastive learning hard negatives", "relevant_ids": ["017"], "type": "standard"},
+  {"id": "q11", "query": "how do transformers handle long sequences efficiently", "relevant_ids": ["015"], "type": "hard"},
+  {"id": "q12", "query": "what makes retrieval models fail on specialised topics", "relevant_ids": ["025"], "type": "hard"},
+  {"id": "q13", "query": "improving answer faithfulness in generation", "relevant_ids": ["020"], "type": "hard"},
+  {"id": "q14", "query": "neural reranking after first stage retrieval", "relevant_ids": ["018"], "type": "hard"},
+  {"id": "q15", "query": "pre-training language models with external knowledge", "relevant_ids": ["016"], "type": "hard"},
+  {"id": "q16", "query": "LLaMA open source language model", "relevant_ids": ["011"], "type": "standard"},
+  {"id": "q17", "query": "multi hop reasoning across documents", "relevant_ids": ["010"], "type": "standard"},
+  {"id": "q18", "query": "knowledge intensive NLP benchmark evaluation", "relevant_ids": ["019"], "type": "standard"},
+  {"id": "q19", "query": "in context learning few shot examples", "relevant_ids": ["013"], "type": "standard"},
+  {"id": "q20", "query": "prompt engineering grounding factual answers", "relevant_ids": ["030"], "type": "standard"}
+]
